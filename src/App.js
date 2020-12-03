@@ -24,7 +24,7 @@ const App = () => (
         <img
           style={{width: 40, height: 40 }}
           src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
-          alt="Ant Design"
+          alt="John Blesswin"
         />
         <Title level={2} style={{ marginBottom: 0 }}>
           Ant Design
