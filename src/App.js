@@ -27,7 +27,7 @@ const App = () => (
           alt="John Blesswin"
         />
         <Title level={2} style={{ marginBottom: 0 }}>
-          Ant Design
+          John Blesswin
         </Title>
       </Space>
     </section>
